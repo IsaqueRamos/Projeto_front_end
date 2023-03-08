@@ -1,2 +1,2 @@
 # Projeto_front_end
-Tecnologias usadas: HTML, CSS, JAVASCRIPT e BOOTSTRAP
+Tecnologias usadas: HTML, CSS e BOOTSTRAP
